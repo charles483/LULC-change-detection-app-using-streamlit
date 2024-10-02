@@ -113,6 +113,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **Email**: [charleschuru94@gmail.com](mailto:charleschuru94@gmail.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **GitHub**: [https://github.com/your-username](https://github.com/charles483)
 
 ---
